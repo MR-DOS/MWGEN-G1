@@ -497,6 +497,10 @@
     [
       "94d4e8f5-2fc0-4789-8c71-9addd8579e30",
       "MCU"
+    ],
+    [
+      "408adaea-05ee-4aba-83af-a3be9a0e1eaf",
+      "Input Clocks"
     ]
   ],
   "text_variables": {}
