@@ -389,9 +389,6 @@
         "nets": [
           "/Clock reference/CLKIN_0",
           "/Clock reference/CLKIN_1",
-          "/Clock reference/REFIN",
-          "/Clock reference/REFIN_PRI",
-          "/Clock reference/REFIN_R",
           "/Clock reference/REFOUT",
           "/Clock reference/REFOUT_AUX2_N",
           "/Clock reference/REFOUT_AUX2_P",
@@ -400,7 +397,6 @@
           "/Clock reference/REFOUT_N",
           "/Clock reference/REFOUT_P",
           "/Clock reference/REFOUT_SEC",
-          "/Clock reference/TCXO_OUT",
           "/Clock reference/fREF_N",
           "/Clock reference/fREF_P",
           "/Clock reference/~{CLKIN_0}",
