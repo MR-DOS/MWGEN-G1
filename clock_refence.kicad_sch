@@ -5,13 +5,13 @@
   (paper "A4")
 
   (title_block
-    (title "Generator 0.0125 - 6.4 GHz (0.02 - 9.8 GHz)")
-    (date "2021-11-13")
-    (rev "211113-001")
+    (title "Generator 0.0125 - 6.4 GHz (or up to 20 GHz)")
+    (date "2021-12-30")
+    (rev "211230-001")
     (company "Petr Polasek")
-    (comment 1 "001, 2021-11-13 09:38")
-    (comment 2 "TCXO / external input, LMX2572/LMX2592")
-    (comment 3 "Dual channel symmetric outputs")
+    (comment 1 "001, 2021-12-30 00:50")
+    (comment 2 "TCXO / external input")
+    (comment 3 "LMX2572 (6.4 GHz) / LMX2592 (9.8GHz) / LMX2594 (15 GHz) / LMX2595 (20 GHz)")
   )
 
   (lib_symbols

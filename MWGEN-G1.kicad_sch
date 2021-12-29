@@ -5,13 +5,14 @@
   (paper "A4")
 
   (title_block
-    (title "Generator 0.0125 - 6.4 GHz (0.02 - 9.8 GHz)")
-    (date "2021-11-13")
-    (rev "211113-001")
+    (title "Generator 0.0125 - 6.4 GHz (or up to 20 GHz)")
+    (date "2021-12-30")
+    (rev "211230-001")
     (company "Petr Polasek")
-    (comment 1 "001, 2021-11-13 09:38")
-    (comment 2 "TCXO / external input, LMX2572/LMX2592")
-    (comment 3 "Dual channel symmetric outputs")
+    (comment 1 "001, 2021-12-30 00:50")
+    (comment 2 "TCXO / external input")
+    (comment 3 "LMX2572 (6.4 GHz) / LMX2592 (9.8GHz) / LMX2594 (15 GHz) / LMX2595 (20 GHz)")
+    (comment 4 "Dual channel symmetric outputs")
   )
 
   (lib_symbols
@@ -4970,6 +4971,9 @@
     (path "/7041dabd-894b-42a9-b5cd-a258d1a99e35"
       (reference "F101") (unit 1) (value "TODO") (footprint "Fuse:Fuse_2920_7451Metric_Pad2.10x5.45mm_HandSolder")
     )
+    (path "/94d4e8f5-2fc0-4789-8c71-9addd8579e30/0d57cc5e-2fdf-4fb8-a971-9a231aefc490"
+      (reference "F?") (unit 1) (value "TODO") (footprint "Fuse:Fuse_2920_7451Metric_Pad2.10x5.45mm_HandSolder")
+    )
     (path "/054d63ea-36d9-4b1e-bffd-240854122a36"
       (reference "FB101") (unit 1) (value "TODO") (footprint "Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder")
     )
@@ -5639,7 +5643,7 @@
     (path "/512615eb-3252-4681-b6b4-cb6c29719642"
       (reference "TP?") (unit 1) (value "TestPoint_Small") (footprint "")
     )
-    (path "/94d4e8f5-2fc0-4789-8c71-9addd8579e30/51aaead8-3431-4d2b-a29a-4fbd9d607bd7"
+    (path "/94d4e8f5-2fc0-4789-8c71-9addd8579e30/53f10e28-c704-424c-bc01-21bca311b2c2"
       (reference "TP?") (unit 1) (value "TestPoint_Small") (footprint "")
     )
     (path "/5b6cbe84-820e-40d1-8afb-06dd2aa04b61"
