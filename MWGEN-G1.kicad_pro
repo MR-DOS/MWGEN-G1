@@ -427,7 +427,24 @@
     "meta": {
       "version": 2
     },
-    "net_colors": null
+    "net_colors": {
+      "+5V": "rgb(0, 0, 255)",
+      "/Clock reference/Input Clocks/VDD_TCXO": "rgb(0, 0, 255)",
+      "/Clock reference/VDDOA_fREF": "rgb(0, 0, 255)",
+      "/Clock reference/VDDOB_fREF": "rgb(0, 0, 255)",
+      "/Clock reference/VDD_fREF": "rgb(0, 0, 255)",
+      "/MCU/VCC_MCU": "rgb(0, 0, 255)",
+      "/MCU/VCC_PLL": "rgb(0, 0, 255)",
+      "/MCU/VCC_TCXO": "rgb(0, 0, 255)",
+      "/MCU/VCC_fREF": "rgb(0, 0, 255)",
+      "/PLL/VccBUF": "rgb(0, 0, 255)",
+      "/PLL/VccCP": "rgb(0, 0, 255)",
+      "/PLL/VccDIG": "rgb(0, 0, 255)",
+      "/PLL/VccMASH": "rgb(0, 0, 255)",
+      "/PLL/VccVCO": "rgb(0, 0, 255)",
+      "/PLL/VccVCO2": "rgb(0, 0, 255)",
+      "VCC_fREF": "rgb(0, 0, 255)"
+    }
   },
   "pcbnew": {
     "last_paths": {
