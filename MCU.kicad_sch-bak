@@ -1674,7 +1674,7 @@
   )
 
   (no_connect (at 168.91 157.48) (uuid 4d5e9834-1c4e-44a1-becb-36cf1caaa465))
-  (no_connect (at 165.1 157.48) (uuid 4d5e9834-1c4e-44a1-becb-36cf1caaa466))
+  (no_connect (at 165.1 157.48) (uuid 4d5e9834-1c4e-44a1-becb-36cf1caaa465))
   (no_connect (at 259.08 146.05) (uuid 7d449fc7-608d-4427-9318-ddf285ef3360))
 
   (wire (pts (xy 15.24 39.37) (xy 15.24 29.21))
