@@ -410,9 +410,13 @@
           "/PLL/RFoutB_N",
           "/PLL/RFoutB_P",
           "/PLL/~{RFoutA}",
-          "/PLL/~{RFoutB}"
+          "/PLL/~{RFoutB}",
+          "Net-(C306-Pad2)",
+          "Net-(C307-Pad2)",
+          "Net-(C308-Pad2)",
+          "Net-(C309-Pad2)"
         ],
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "pcb_color": "rgb(255, 255, 0)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.4,
         "via_diameter": 0.5,

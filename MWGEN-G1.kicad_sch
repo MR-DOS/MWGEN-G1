@@ -4887,17 +4887,14 @@
     (path "/f70e524f-5593-41d3-8f65-00b384cfc734"
       (reference "D106") (unit 1) (value "LOS_EXT") (footprint "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder")
     )
-    (path "/00000000-0000-0000-0000-000060228c8f/408adaea-05ee-4aba-83af-a3be9a0e1eaf/79deef8b-83e9-48e6-a00a-f776a3993081"
-      (reference "D201") (unit 1) (value "1.5KE51CA") (footprint "Diode_THT:D_DO-201AE_P15.24mm_Horizontal")
+    (path "/00000000-0000-0000-0000-000060228c8f/79b05c01-fe0d-4d80-872e-edf9c1357556"
+      (reference "D201") (unit 1) (value "SMAJ48CA") (footprint "Diode_SMD_AKL:D_SMA_TVS")
     )
     (path "/00000000-0000-0000-0000-000060228c8f/0750df53-9eb4-4885-b621-947f52351789"
       (reference "D202") (unit 1) (value "BAT54S") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/00000000-0000-0000-0000-000060228c8f/85371444-28cb-4300-a75d-98180c955257"
       (reference "D203") (unit 1) (value "BAT54S") (footprint "Package_TO_SOT_SMD:SOT-23")
-    )
-    (path "/00000000-0000-0000-0000-000060228c8f/00000000-0000-0000-0000-000060a30781"
-      (reference "D206") (unit 1) (value "1.5KE51CA") (footprint "Diode_THT:D_DO-201AE_P15.24mm_Horizontal")
     )
     (path "/00000000-0000-0000-0000-000060228c8f/408adaea-05ee-4aba-83af-a3be9a0e1eaf/5ff9fb8a-c325-42ea-a2a9-403ac13054b6"
       (reference "D207") (unit 1) (value "DUTY_ERR_N") (footprint "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder")
@@ -4968,6 +4965,9 @@
     (path "/00000000-0000-0000-0000-000060228c8f/408adaea-05ee-4aba-83af-a3be9a0e1eaf/d9e22e39-4a8e-4f1b-8d5d-f9e3c5c06c7b"
       (reference "D502") (unit 1) (value "TCXO_ON") (footprint "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder")
     )
+    (path "/00000000-0000-0000-0000-000060228c8f/408adaea-05ee-4aba-83af-a3be9a0e1eaf/9d32faaa-5a1a-4214-8f8e-655fa6571cb4"
+      (reference "D503") (unit 1) (value "SMAJ48CA") (footprint "Diode_SMD_AKL:D_SMA_TVS")
+    )
     (path "/7041dabd-894b-42a9-b5cd-a258d1a99e35"
       (reference "F101") (unit 1) (value "TODO") (footprint "Fuse:Fuse_2920_7451Metric_Pad2.10x5.45mm_HandSolder")
     )
@@ -5029,7 +5029,7 @@
       (reference "J101") (unit 1) (value "POWER") (footprint "Connector_Phoenix_MSTB:PhoenixContact_MSTBA_2,5_2-G-5,08_1x02_P5.08mm_Horizontal")
     )
     (path "/00000000-0000-0000-0000-000060228c8f/408adaea-05ee-4aba-83af-a3be9a0e1eaf/994a5be5-1ae7-4cf3-af43-1eebc3348308"
-      (reference "J201") (unit 1) (value "REFIN") (footprint "petr_kicad:SMA_rosenberger_hybrid")
+      (reference "J201") (unit 1) (value "REFIN") (footprint "petr:SMA_rosenberger_hybrid")
     )
     (path "/00000000-0000-0000-0000-000060228c8f/408adaea-05ee-4aba-83af-a3be9a0e1eaf/053cefeb-3ad2-4c1f-a80a-992c28f6b3f0"
       (reference "J202") (unit 1) (value "REFIN_DIRECT_P") (footprint "Connector_Coaxial:U.FL_Molex_MCRF_73412-0110_Vertical")
@@ -5047,7 +5047,7 @@
       (reference "J206") (unit 1) (value "RFShield_TwoPieces") (footprint "RF_Shielding:Laird_Technologies_BMI-S-205-F_38.10x25.40mm")
     )
     (path "/00000000-0000-0000-0000-000060228c8f/ab469040-d85d-461a-bc01-861eb92040c8"
-      (reference "J207") (unit 1) (value "REFOUT") (footprint "petr_kicad:SMA_rosenberger_hybrid")
+      (reference "J207") (unit 1) (value "REFOUT") (footprint "petr:SMA_rosenberger_hybrid")
     )
     (path "/00000000-0000-0000-0000-000060228c8f/408adaea-05ee-4aba-83af-a3be9a0e1eaf/5c4d0d56-ab78-4a3d-90ba-b7ea641866d8"
       (reference "J208") (unit 1) (value "VTUNE") (footprint "Connector_Coaxial:U.FL_Molex_MCRF_73412-0110_Vertical")
@@ -5068,16 +5068,16 @@
       (reference "J303") (unit 1) (value "CPout") (footprint "Connector_Coaxial:U.FL_Molex_MCRF_73412-0110_Vertical")
     )
     (path "/00000000-0000-0000-0000-00006000e916/078f6975-0b98-47f0-986d-b221ccce21c3"
-      (reference "J304") (unit 1) (value "DNP") (footprint "petr_kicad:SMA_rosenberger_hybrid")
+      (reference "J304") (unit 1) (value "DNP") (footprint "petr:SMA_rosenberger_hybrid")
     )
     (path "/00000000-0000-0000-0000-00006000e916/9094adbd-faa3-493c-9965-4991e04d1dae"
-      (reference "J305") (unit 1) (value "DNP") (footprint "petr_kicad:SMA_rosenberger_hybrid")
+      (reference "J305") (unit 1) (value "DNP") (footprint "petr:SMA_rosenberger_hybrid")
     )
     (path "/00000000-0000-0000-0000-00006000e916/537315c7-ff19-409b-a4ea-04c512ef0c9a"
-      (reference "J306") (unit 1) (value "DNP") (footprint "petr_kicad:SMA_rosenberger_hybrid")
+      (reference "J306") (unit 1) (value "DNP") (footprint "petr:SMA_rosenberger_hybrid")
     )
     (path "/00000000-0000-0000-0000-00006000e916/50c56b20-9985-4a0a-8153-455ae1d44274"
-      (reference "J307") (unit 1) (value "DNP") (footprint "petr_kicad:SMA_rosenberger_hybrid")
+      (reference "J307") (unit 1) (value "DNP") (footprint "petr:SMA_rosenberger_hybrid")
     )
     (path "/00000000-0000-0000-0000-00006000e916/006d1f9e-38fb-429c-8ff1-646398359cd1"
       (reference "J308") (unit 1) (value "DNP") (footprint "Connector_Coaxial:U.FL_Molex_MCRF_73412-0110_Vertical")
@@ -5095,7 +5095,7 @@
       (reference "J403") (unit 1) (value "RS485_2") (footprint "Connector_Phoenix_MSTB:PhoenixContact_MSTBA_2,5_3-G-5,08_1x03_P5.08mm_Horizontal")
     )
     (path "/94d4e8f5-2fc0-4789-8c71-9addd8579e30/614bc94d-c475-4735-a1b9-8c33b1ac632f"
-      (reference "J404") (unit 1) (value "Conn_ARM_JTAG_SWD_10") (footprint "Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical_SMD")
+      (reference "J404") (unit 1) (value "Conn_ARM_JTAG_SWD_10") (footprint "petr:ArmHeader_2x05-1_P1.27mm_Vertical_SMD_pin7removed")
     )
     (path "/390defe9-0e88-474b-a49e-9781ca5b348d"
       (reference "JP101") (unit 1) (value "SolderJumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm")
@@ -5710,22 +5710,22 @@
       (reference "U204") (unit 1) (value "74LVC1G66") (footprint "Package_TO_SOT_SMD:SOT-353_SC-70-5_Handsoldering")
     )
     (path "/00000000-0000-0000-0000-00006000e916/e511a774-c485-4553-8428-16cf5038f2f7"
-      (reference "U301") (unit 1) (value "LMX2572") (footprint "petr_kicad:QFN-40_EP_6x6_Pitch0.5mm_LMX2572")
+      (reference "U301") (unit 1) (value "LMX2572") (footprint "petr:QFN-40_EP_6x6_Pitch0.5mm_LMX2572")
     )
     (path "/00000000-0000-0000-0000-00006000e916/023a7f84-c5b0-40a1-a7ec-93dffca65411"
-      (reference "U301") (unit 2) (value "LMX2572") (footprint "petr_kicad:QFN-40_EP_6x6_Pitch0.5mm_LMX2572")
+      (reference "U301") (unit 2) (value "LMX2572") (footprint "petr:QFN-40_EP_6x6_Pitch0.5mm_LMX2572")
     )
     (path "/00000000-0000-0000-0000-00006000e916/12aa42bb-5082-4e24-9292-34f1ce29616c"
-      (reference "U301") (unit 3) (value "LMX2572") (footprint "petr_kicad:QFN-40_EP_6x6_Pitch0.5mm_LMX2572")
+      (reference "U301") (unit 3) (value "LMX2572") (footprint "petr:QFN-40_EP_6x6_Pitch0.5mm_LMX2572")
     )
     (path "/00000000-0000-0000-0000-00006000e916/8b63bea4-a83e-4ad7-8f5a-7e6a448e044d"
-      (reference "U301") (unit 4) (value "LMX2572") (footprint "petr_kicad:QFN-40_EP_6x6_Pitch0.5mm_LMX2572")
+      (reference "U301") (unit 4) (value "LMX2572") (footprint "petr:QFN-40_EP_6x6_Pitch0.5mm_LMX2572")
     )
     (path "/00000000-0000-0000-0000-00006000e916/7cb20a52-923b-42be-9f5c-4dc30cd4d5bf"
-      (reference "U301") (unit 5) (value "LMX2572") (footprint "petr_kicad:QFN-40_EP_6x6_Pitch0.5mm_LMX2572")
+      (reference "U301") (unit 5) (value "LMX2572") (footprint "petr:QFN-40_EP_6x6_Pitch0.5mm_LMX2572")
     )
     (path "/00000000-0000-0000-0000-00006000e916/8cf4373b-ba17-4d31-a102-bfc3aad35ed8"
-      (reference "U301") (unit 6) (value "LMX2572") (footprint "petr_kicad:QFN-40_EP_6x6_Pitch0.5mm_LMX2572")
+      (reference "U301") (unit 6) (value "LMX2572") (footprint "petr:QFN-40_EP_6x6_Pitch0.5mm_LMX2572")
     )
     (path "/00000000-0000-0000-0000-00006000e916/cb6bb962-c58a-4bab-aaf6-5c45fe107219"
       (reference "U302") (unit 1) (value "XC6204B33") (footprint "Package_TO_SOT_SMD:SOT-89-5_Handsoldering")
